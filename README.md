@@ -1,7 +1,7 @@
 ### 
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Woodypef.log&fontSize=50&textcolor=white)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=#FF9E0F&height=100&section=header&text=Woodypef.log&fontSize=50&textcolor=white)
 
 ### Hi there 👋, WoodyPef's repo [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)
 ---
