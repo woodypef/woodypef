@@ -3,18 +3,23 @@
  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FF9E0F&height=100&section=header&text=Woodypef.log&fontSize=50&fontColor=FFFFFF)
 
-### Hi there 👋, WoodyPef's repo [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)
+### Hi there 👋, WoodyPef's repo [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)</br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodypef&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
-### ⭐My Skill
+### ⭐My Tech Stacks⭐
+<a href="Java" target="_blank"><img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/></a>
+<a href="파이썬" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+<a href="Kotlin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a></br>
+
+
 <a href="자바스크립트" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
-<a href="HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/></a>
-<a href="CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/></a>
-<a href="파이썬" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a></br>
-
-
+<a href="HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
+<a href="CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodypef&layout=compact)](https://github.com/woodypef/github-readme-stats)
+---
 ### 🔥Github Info
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodypef&show_icons=true&theme=tokyonight)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodypef&layout=compact)](https://github.com/woodypef/github-readme-stats)
+---
 
 ### BaekJoon Tear <br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d) 
