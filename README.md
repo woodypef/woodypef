@@ -7,6 +7,8 @@
 ---
 ### ⭐My Skill
 <a href="자바스크립트" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<a href="HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/></a>
+<a href="CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/></a>
 <a href="파이썬" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a></br>
 
 
