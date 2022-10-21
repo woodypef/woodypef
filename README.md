@@ -1,38 +1,42 @@
-### Hi there 👋
+### 
+<div align=center>
+ 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Woodypef.log&fontSize=50&textcolor=white)
 
-# WoodyPef's repo [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)<br/>
+### Hi there 👋, WoodyPef's repo [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d)
+---
+### ⭐My Skill
+<a href="자바스크립트" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<a href="파이썬" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodypef&show_icons=true&theme=tokyonight)
 
-
+### 🔥Github Info
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodypef&show_icons=true&theme=tokyonight)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodypef&layout=compact)](https://github.com/woodypef/github-readme-stats)
 
- BaekJoon Tear <br/>
+### BaekJoon Tear <br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kacaw00d)](https://solved.ac/kacaw00d) 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
-☑️ SSAFY
+
+---
+### ☑️ SSAFY
 ### FrontEnd 지원 예정
 ### FrontEnd 언어? -> Java (.js포함임)
 
-
-
-☑️ Github
+### ☑️ Github
 ### 22-10-20 github clone-pull-commit-push (sourcetree 이용) repo 생성함
 ### 22-10-20 github 1일 1잔디 채우기 프로젝트 시작
 
-
-
-
-☑️ BaekJoon
+### ☑️ BaekJoon
 ### 22-10-20 Baekjoon java로 코딩 시작 (프론트엔더)
 ### 22-10-20 Solved : 
 
-
-☑️ Sources
+### ☑️ Sources
 
 ReadMe 꾸미기
 출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+
+</div>
 
 
 <!--
